@@ -1,5 +1,5 @@
 plugins {
-    id 'org.springframework.boot' version '2.7.14'
+    id 'org.springframework.boot' version '2.7.15'
     id 'java'
     id 'jacoco'
     id 'com.diffplug.spotless' version '6.20.0'
