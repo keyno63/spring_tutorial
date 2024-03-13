@@ -81,7 +81,7 @@ dependencies {
 
     implementation 'mysql:mysql-connector-java:8.0.33'
 
-    implementation 'com.google.guava:guava:32.1.1-jre'
+    implementation 'com.google.guava:guava:33.1.0-jre'
 }
 
 dependencies {
