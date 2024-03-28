@@ -47,7 +47,7 @@ dependencies {
     runtimeOnly 'com.h2database:h2:1.4.+'
 
     // aws s3
-    implementation 'com.amazonaws:aws-java-sdk-s3:1.12.204'
+    implementation 'com.amazonaws:aws-java-sdk-s3:1.12.689'
 
     // auto reload for dev.
     developmentOnly 'org.springframework.boot:spring-boot-devtools'
